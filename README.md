@@ -1,4 +1,10 @@
-  
+This is a fork of [SIDKick pico](https://github.com/frntc/SIDKick-pico). It is used for making a single board version with all components on a single PCB. Including level shifters and DAC. Schematic and gerbers will be made available so people can order and make their own units.
+The PCB and schematic are made totally from scratch. SIDkick pico schema isn't available but OS SW source files define the pins. Possible SW changes and fixes required by the new PCB are committed to this repo (reset bug, pin order for better layout etc.).
+Preliminary model of the PCB is shown below.
+![neatSID preliminary 3D model_400x](https://github.com/1c3d1v3r/neatSID/assets/32923060/8450201a-6ccb-457a-9a8c-c47bbdf2a157)
+
+The following material below is from the original repo:
+
 <p align="center" font-size: 30px;>
   <img src="Images/SKpico_logo.png" height="120"> <br>
   <b> .- the inexpensive dual-SID replacement that you can build yourself -. </b><br><br>
